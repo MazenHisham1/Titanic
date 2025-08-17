@@ -57,7 +57,7 @@
 
   <h2>🚀 Getting Started</h2>
   <p><b>1️⃣ Clone the repository</b></p>
-  <pre><code>git clone https://github.com/yourusername/titanic-analysis.git
+  <pre><code>git clone https://github.com/MazenHisham1/titanic-analysis.git
 cd titanic-analysis</code></pre>
 
   <p><b>2️⃣ Install dependencies</b></p>
